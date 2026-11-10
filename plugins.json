@@ -2164,8 +2164,7 @@
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/AniKoto.cs3",
     "name": "AniKoto [CNC Repo (All Language)]",
     "sourceRepo": "CNC Repo (All Language)",
-    "isDuplicate": true,
-    "originalInternalName": "AniKoto"
+    "isDuplicate": true
   },
   {
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animesuge.cz&size=64",
@@ -2667,8 +2666,7 @@
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProvider.cs3",
     "name": "MovieBoxProvider [CNC Repo (All Language)]",
     "sourceRepo": "CNC Repo (All Language)",
-    "isDuplicate": true,
-    "originalInternalName": "MovieBoxProvider"
+    "isDuplicate": true
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/MovieBoxProviderIN/icon.png",
@@ -3236,8 +3234,7 @@
     "url": "https://raw.githubusercontent.com/rockhero1234/cinephile/builds/Tamilblasters.cs3",
     "name": "Tamilblasters [Cinephile]",
     "sourceRepo": "Cinephile",
-    "isDuplicate": true,
-    "originalInternalName": "Tamilblasters"
+    "isDuplicate": true
   },
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/AniChan.cs3",
@@ -4052,8 +4049,7 @@
     "apiVersion": 1,
     "fileHash": "sha256-2b3f1a8abc4e8d637f57522537e8110de771f3f1aca9ff0520838e33df287f66",
     "sourceRepo": "raghav repo",
-    "isDuplicate": true,
-    "originalInternalName": "VegaMovies"
+    "isDuplicate": true
   },
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/Xanime.cs3",
@@ -4245,8 +4241,7 @@
     "description": "Re:ANIME - Stream anime free online (sub & dub, multi-quality)",
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/reanime.png",
     "sourceRepo": "AllForU",
-    "isDuplicate": true,
-    "originalInternalName": "Reanime"
+    "isDuplicate": true
   },
   {
     "version": 3,
@@ -4294,8 +4289,7 @@
     "fileHash": "sha256-e365f870496a8b46c5612cd55be0b3ed5f3cb3bdcaa86e87c669ef385f3709ea",
     "fileSize": 32176,
     "sourceRepo": "AllForU",
-    "isDuplicate": true,
-    "originalInternalName": "Animeav1"
+    "isDuplicate": true
   },
   {
     "version": 16,
@@ -4319,8 +4313,7 @@
     "fileHash": "sha256-a7dcb016e6cb80366e851c9a86198a991c3b46ed5091c573c1c6b88d84a3260c",
     "fileSize": 29091,
     "sourceRepo": "AllForU",
-    "isDuplicate": true,
-    "originalInternalName": "Latanime"
+    "isDuplicate": true
   },
   {
     "version": 16,
@@ -4344,8 +4337,7 @@
     "fileHash": "sha256-6b3300848813dd2810b5fa12caf2f5435975c9141d74095e226dbbb5dccd978e",
     "fileSize": 52901,
     "sourceRepo": "AllForU",
-    "isDuplicate": true,
-    "originalInternalName": "Netcinez"
+    "isDuplicate": true
   },
   {
     "version": 15,
@@ -4369,8 +4361,7 @@
     "fileHash": "sha256-7a4d842e2c1cc75a8141fe7dc6124a1528925f3f2267f6d9cb557b396f551079",
     "fileSize": 46838,
     "sourceRepo": "AllForU",
-    "isDuplicate": true,
-    "originalInternalName": "Chikianimation"
+    "isDuplicate": true
   },
   {
     "version": 15,
@@ -4394,8 +4385,7 @@
     "fileHash": "sha256-7f336443edd3c1c5e87171e3b5a821ffb2077b06b5e8c6cec0798762fe90e8c6",
     "fileSize": 33241,
     "sourceRepo": "AllForU",
-    "isDuplicate": true,
-    "originalInternalName": "OHLI24"
+    "isDuplicate": true
   },
   {
     "version": 17,
@@ -4421,8 +4411,7 @@
     "fileHash": "sha256-c2abc9c83e329142ed29b1a24d27eef5206a184530059576f65eb5fe33b3ff04",
     "fileSize": 59835,
     "sourceRepo": "AllForU",
-    "isDuplicate": true,
-    "originalInternalName": "AniVortex"
+    "isDuplicate": true
   },
   {
     "version": 17,
@@ -4448,8 +4437,7 @@
     "fileHash": "sha256-fc5b2cc07768bfbf2e647fb74a79f0be1e3cdd0e488652ea2c0243ebaab4c6fb",
     "fileSize": 90730,
     "sourceRepo": "AllForU",
-    "isDuplicate": true,
-    "originalInternalName": "NetNaija"
+    "isDuplicate": true
   },
   {
     "version": 10,
@@ -4473,8 +4461,7 @@
     "fileHash": "sha256-2fc07485e0fbcefec9b8847227218a93da3b8b89d057e29a0c88f0779115eac5",
     "fileSize": 46723,
     "sourceRepo": "AllForU",
-    "isDuplicate": true,
-    "originalInternalName": "Comix"
+    "isDuplicate": true
   },
   {
     "version": 10,
@@ -5365,8 +5352,7 @@
     "apiVersion": 1,
     "fileHash": "sha256-33484614bec52df3e8b577400098b2e6e313c1b520bebd87f5bf50000043ec05",
     "sourceRepo": "Desi Extensions",
-    "isDuplicate": true,
-    "originalInternalName": "Anizone"
+    "isDuplicate": true
   },
   {
     "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/AryaVidya.cs3",
@@ -5484,8 +5470,7 @@
     "apiVersion": 1,
     "fileHash": "sha256-a9ccf2d9bcf5cd69ad43c7cb7aaa6d405d1d8946a97a48958a7b77247e5222a5",
     "sourceRepo": "Desi Extensions",
-    "isDuplicate": true,
-    "originalInternalName": "MovieBox"
+    "isDuplicate": true
   },
   {
     "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/Movies4u.cs3",
@@ -5509,8 +5494,7 @@
     "apiVersion": 1,
     "fileHash": "sha256-0becb39913a0156ee07e0a482625466351b819dbec4dc0e3c5f40979ad720cb2",
     "sourceRepo": "Desi Extensions",
-    "isDuplicate": true,
-    "originalInternalName": "Movies4u"
+    "isDuplicate": true
   },
   {
     "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/MoviesDrive.cs3",
@@ -5534,8 +5518,7 @@
     "apiVersion": 1,
     "fileHash": "sha256-7a072fddc42ea1a47ec089f3176c03946a3c7226e7c727c514fdbb3d20775efe",
     "sourceRepo": "Desi Extensions",
-    "isDuplicate": true,
-    "originalInternalName": "MoviesDrive"
+    "isDuplicate": true
   },
   {
     "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/MoviesHunt.cs3",
@@ -5828,8 +5811,7 @@
     "apiVersion": 1,
     "fileHash": "sha256-3f4fdd891585eeb3bb53fbe01f2f007702cbad7e1bf9863a7c2571fed873f610",
     "sourceRepo": "XtronRepo",
-    "isDuplicate": true,
-    "originalInternalName": "Bollyflix"
+    "isDuplicate": true
   },
   {
     "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/DudeFilms.cs3",
@@ -5852,8 +5834,7 @@
     "apiVersion": 1,
     "fileHash": "sha256-b05698d5c887e076a798ed35e944df470f8c6eaa9ec599d1b4b11a1e29f91f0f",
     "sourceRepo": "XtronRepo",
-    "isDuplicate": true,
-    "originalInternalName": "DudeFilms"
+    "isDuplicate": true
   },
   {
     "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/HDHub4u.cs3",
@@ -5922,8 +5903,7 @@
     "apiVersion": 1,
     "fileHash": "sha256-060781ef57e86aa5efa5f9e6ea20350805bf962ebb76f6b3698c8e6e7d5b5c43",
     "sourceRepo": "XtronRepo",
-    "isDuplicate": true,
-    "originalInternalName": "MicroTV"
+    "isDuplicate": true
   },
   {
     "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MovieBox.cs3",
@@ -5946,8 +5926,7 @@
     "apiVersion": 1,
     "fileHash": "sha256-ed3e40523f308c5adee9384f0abe80fe48ac9de4df0599f3b4209c85bae2ae41",
     "sourceRepo": "XtronRepo",
-    "isDuplicate": true,
-    "originalInternalName": "MovieBox"
+    "isDuplicate": true
   },
   {
     "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MovieBoxWeb.cs3",
@@ -5993,8 +5972,7 @@
     "apiVersion": 1,
     "fileHash": "sha256-a4d2a9acf122be4a892cd418080c390da2c32f11bd6a31c1610cc457f9d4db67",
     "sourceRepo": "XtronRepo",
-    "isDuplicate": true,
-    "originalInternalName": "Movies4u"
+    "isDuplicate": true
   },
   {
     "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MultiMovies.cs3",
@@ -6064,8 +6042,7 @@
     "apiVersion": 1,
     "fileHash": "sha256-738f393fc3361f1edc7f2dd423cc1c4437201550f56a0b96e35d8318f5ff23cd",
     "sourceRepo": "XtronRepo",
-    "isDuplicate": true,
-    "originalInternalName": "ToonHub"
+    "isDuplicate": true
   },
   {
     "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/Toontales.cs3",
@@ -6204,8 +6181,7 @@
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
     "sourceRepo": "XtronRepo",
-    "isDuplicate": true,
-    "originalInternalName": "CineStream"
+    "isDuplicate": true
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
@@ -6230,8 +6206,7 @@
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
     "sourceRepo": "XtronRepo",
-    "isDuplicate": true,
-    "originalInternalName": "StreamPlay"
+    "isDuplicate": true
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Ultima.cs3",
@@ -6250,8 +6225,7 @@
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Ultima.jpg",
     "apiVersion": 1,
     "sourceRepo": "XtronRepo",
-    "isDuplicate": true,
-    "originalInternalName": "Ultima"
+    "isDuplicate": true
   },
   {
     "url": "https://cs.eclipsia.dpdns.org/files/05c5c0119b0c5820/Eclipsia.cs3",
