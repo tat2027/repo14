@@ -1,0 +1,68 @@
+name: Merge CloudStream Repositories
+
+on:
+  # Automatically run every 6 hours to pull fresh extension updates
+  schedule:
+    - cron: '0 */6 * * *'
+
+  # Allows you to run this workflow manually from the Actions tab in GitHub
+  workflow_dispatch:
+
+  # Automatically run when changes are pushed to main (e.g. updating merge.py)
+  push:
+    branches:
+      - main
+    paths:
+      - 'merge.py'
+      - 'requirements.txt'
+      - '.github/workflows/**'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: 'cloudstream-merge'
+  cancel-in-progress: true
+
+jobs:
+  merge-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 🐍 Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 📦 Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: ⚡ Run CloudStream Merge Script
+        env:
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          python merge.py
+
+      - name: 📤 Commit and push updated master.json and plugins.json
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add repo.json master.json plugins.json master_bundle.json
+          
+          # Only commit if files actually changed
+          if git diff --staged --quiet; then
+            echo "No repository changes detected. Everything is up to date."
+          else
+            git commit -m "Auto-update CloudStream repositories [skip ci]"
+            git push origin main
+          fi
