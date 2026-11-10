@@ -57,6 +57,10 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          
+          # Remote changes pull karlein taake non-fast-forward error na aaye
+          git pull origin main --rebase --autostash
+          
           git add repo.json master.json plugins.json master_bundle.json
           
           # Only commit if files actually changed
