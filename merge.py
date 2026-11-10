@@ -64,10 +64,6 @@ SOURCE_REPOSITORIES = [
         "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/builds/CNC.json"
     },
     {
-        "name": "Cinephile",
-        "url": "https://raw.githubusercontent.com/rockhero1234/cinephile/refs/heads/builds/repo.json"
-    },
-    {
         "name": "raghav repo",
         "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/repo.json"
     },
@@ -78,10 +74,6 @@ SOURCE_REPOSITORIES = [
     {
         "name": "FLUMMOX Repo",
         "url": "https://raw.githubusercontent.com/FlummoxGamer/FLUMMOX-Repo/builds/repo.json"
-    },
-    {
-        "name": "Desi Extensions",
-        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/main/repo.json"
     },
     {
         "name": "NetMirror",
