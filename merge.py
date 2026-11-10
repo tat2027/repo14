@@ -52,7 +52,7 @@ PAGES_BASE_URL = f"https://{GH_USER}.github.io/{GH_REPO}"
 # Source Repositories to Merge
 SOURCE_REPOSITORIES = [
     {
-        "name": "CSX (SaurabhKaperwan)",
+        "name": "CSX (Megix)",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CS.json"
     },
     {
@@ -64,7 +64,7 @@ SOURCE_REPOSITORIES = [
         "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/builds/CNC.json"
     },
     {
-        "name": "raghav repo",
+        "name": "Raghav Repo",
         "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/repo.json"
     },
     {
@@ -80,12 +80,20 @@ SOURCE_REPOSITORIES = [
         "url": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/refs/heads/builds/Netflix.json"
     },
     {
-        "name": "XtronRepo",
+        "name": "Xtron Repo",
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/builds/repo.json"
     },
     {
         "name": "Eclipsia",
         "url": "https://cs.eclipsia.dpdns.org/repo.json"
+    },
+    {
+        "name": "Indflix",
+        "url": "https://raw.githubusercontent.com/dipender98/Indflix/builds/repo.json"
+    },
+    {
+        "name": "Shakzz Repo",
+        "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/refs/heads/builds/repo.json"
     }
 ]
 
