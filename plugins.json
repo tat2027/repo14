@@ -21,7 +21,7 @@
     "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/refs/heads/master/Bollyflix/icon.png",
     "apiVersion": 1,
     "fileHash": "sha256-507b486b195b98903b0cec0fca811c27fdff6cf200f6f94a662c64dd8abe0e59",
-    "sourceRepo": "CSX (SaurabhKaperwan)",
+    "sourceRepo": "CSX (Megix)",
     "isDuplicate": false
   },
   {
@@ -47,7 +47,7 @@
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
     "fileHash": "sha256-30dc643628702d6b2fe139339e59996783c95a0c1d41efe0a31872ae4d10908b",
-    "sourceRepo": "CSX (SaurabhKaperwan)",
+    "sourceRepo": "CSX (Megix)",
     "isDuplicate": false
   },
   {
@@ -72,7 +72,7 @@
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/MoviesDrive/icon.png",
     "apiVersion": 1,
     "fileHash": "sha256-52758210caa1cf0a6dc929d0f73fec5919e0ab66e5eddf6386ed30f7c771980a",
-    "sourceRepo": "CSX (SaurabhKaperwan)",
+    "sourceRepo": "CSX (Megix)",
     "isDuplicate": false
   },
   {
@@ -96,7 +96,7 @@
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/Moviesmod/icon.png",
     "apiVersion": 1,
     "fileHash": "sha256-9433fd970480a53f52f3ec4b49d3213c7bda5a26b109dc80ef82cd2ec13a37a7",
-    "sourceRepo": "CSX (SaurabhKaperwan)",
+    "sourceRepo": "CSX (Megix)",
     "isDuplicate": false
   },
   {
@@ -121,7 +121,7 @@
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/VegaMovies/icon.jpg",
     "apiVersion": 1,
     "fileHash": "sha256-b78635ef4f2f66c134184552fe5e4956cc02ec1c5ce6d6811cccfd3747367883",
-    "sourceRepo": "CSX (SaurabhKaperwan)",
+    "sourceRepo": "CSX (Megix)",
     "isDuplicate": false
   },
   {
@@ -693,14 +693,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Coflix.cs3",
     "status": 1,
-    "version": 19,
+    "version": 20,
     "name": "Coflix",
     "internalName": "Coflix",
     "authors": [
       "Phisher98"
     ],
     "description": "Movies,Series and Anime French Extension ",
-    "fileSize": 56596,
+    "fileSize": 74834,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "fr",
     "tvTypes": [
@@ -709,7 +709,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Coflix.png",
     "apiVersion": 1,
-    "fileHash": "sha256-5e256016afac7184a5a51bdcb49c3a6f8b32581825884cafad546e5caefc8726",
+    "fileHash": "sha256-8a076bad457e39b61072477a77439c866f5df878416d31fe8bbfd75e9bf75b71",
     "sourceRepo": "Phisher Repo",
     "isDuplicate": false
   },
@@ -3146,7 +3146,7 @@
     "iconUrl": "https://play-lh.googleusercontent.com/YxgDK6JP2h08FlpZs__vP2otL3HKp3IXfvb9jVUt0HgWy1V9xcWbIdkH8_o9Z6QQYnRVYPatjcPTcOIpeWtI",
     "apiVersion": 1,
     "fileHash": "sha256-2ab2fac8c64abe91ed58758b74b45d19f68b6df00f874b1e436d0c427dd367c8",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -3170,7 +3170,7 @@
     "iconUrl": "https://anidap.lol/logo.png",
     "apiVersion": 1,
     "fileHash": "sha256-bdff27216b77da1690921a6f8109ec047a7c597649ebed3724b750283dbe8cfa",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -3194,7 +3194,7 @@
     "iconUrl": "https://anikototv.to/AnikotoTheme/assets/images/favicon.png",
     "apiVersion": 1,
     "fileHash": "sha256-068ce2b5a83b559b1849341e33a01a4aa3db5fec3f3a1791fd71c6d6ba7e1934",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -3219,7 +3219,7 @@
     "iconUrl": "https://animeinweb.com/favicon.ico",
     "apiVersion": 1,
     "fileHash": "sha256-3cd55f846618a961c93e19cd603f07ae3ca6321ed4895f58dde958360dbbecf6",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -3242,7 +3242,7 @@
     "iconUrl": "https://anime-th.com/favicon.ico",
     "apiVersion": 1,
     "fileHash": "sha256-b694c9aa0314e857b40ba16ac0585ab1c604cfaf034595b2dfa3cbd86c5d28d1",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -3266,7 +3266,7 @@
     "iconUrl": "https://watchanimeworld.top/wp-content/uploads/AW_Smiley.png",
     "apiVersion": 1,
     "fileHash": "sha256-3c48b190e02f7584b7815140db9b610b6992e7440069fcc2d16d07d772c4f0d3",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -3290,7 +3290,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=ani.pm&sz=64",
     "apiVersion": 1,
     "fileHash": "sha256-948fc41fbedc2a47aab7074c137afe74c00cdd5863b4f814fe5bd825be6c4f2c",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -3314,7 +3314,7 @@
     "iconUrl": "https://animesuge.cz/animesuge/images/logo.png",
     "apiVersion": 1,
     "fileHash": "sha256-62983888354e6eb0df775807727be904fd4e993e346a88b0de30ff3bd7bb91b4",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -3338,7 +3338,7 @@
     "iconUrl": "https://play-lh.googleusercontent.com/F3jWPSrcSNIACoBThPkbgzWu0ejHPmlCNUTNnfOkDfTTzW027WhzhfmWaT18bYwTT9vM-gGs7bRuU8z6rqqudA",
     "apiVersion": 1,
     "fileHash": "sha256-4ccc9546f47df1e22eee664f1c0fcb70e5d44840f4b19d80a59a619dd885de5f",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -3362,7 +3362,7 @@
     "iconUrl": "https://anv.to/brand/icon-512.png",
     "apiVersion": 1,
     "fileHash": "sha256-58cc72a53b3e5315af71aad07442eef11f8998e3315b9b8ed30ad22f9de65d22",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -3384,7 +3384,7 @@
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAvvc01IqbjrBZ-AhXwvyrIblnaJBA04IUNKmJNRbqEh46fWVItaGuoRsj&s=10",
     "apiVersion": 1,
     "fileHash": "sha256-425d96e2d11ff7ed12cf5578b65b5cabca232942049d3990d8b2b7d8923c24f3",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -3406,7 +3406,7 @@
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjVrQOYj-sTUXwbXmmIso7vR3mqtH_sxhXF69vtY5FXAK4M4iCaeLoatA&s=10",
     "apiVersion": 1,
     "fileHash": "sha256-6641f6dd38f6055608d1938d0464cbc8662dcfdb1790d5a30fd5048cdfc1700a",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -3430,7 +3430,7 @@
     "iconUrl": "https://gotaku.to/images/icons/logo-white.png?v21",
     "apiVersion": 1,
     "fileHash": "sha256-2419cda253908120ba99ef1bd329f2ba0b1fd4d7ae33b3d03bcd03b5f5372b9c",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -3455,7 +3455,7 @@
     "iconUrl": "https://png.pngtree.com/element_our/png/20181227/movie-icon-which-is-designed-for-all-application-purpose-new-png_287896.jpg",
     "apiVersion": 1,
     "fileHash": "sha256-23a6144db02b5476419bb99e460b556db36fe6fab3ce7485ed1df8cd29cefa70",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -3478,7 +3478,7 @@
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSknDTJSN2AhrHzfxF75gr9-qG4x-JzwHRnvPDjZP2aa-93KRaXPF1_ZQdm&s=10",
     "apiVersion": 1,
     "fileHash": "sha256-b98ce133fdd8810e7b687b9b50e02ab83c134ffed0f2a4874ec5e0113cb7bfbe",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -3502,7 +3502,7 @@
     "iconUrl": "https://kdesa.stream/android-chrome-192x192.png?v=6",
     "apiVersion": 1,
     "fileHash": "sha256-215b1c964671f3e37b6ace7ae71dd9e1e165f57cc176eba32acd656ef76241b2",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -3524,7 +3524,7 @@
     "iconUrl": "https://img.magnific.com/free-vector/live-webcast-broadcasting-symbol-online-events_1017-62406.jpg?semt=ais_hybrid&w=740&q=80",
     "apiVersion": 1,
     "fileHash": "sha256-2bd954e35198fa916cb8b96cee5536ba17384ffb47fa2f8db57029d5ae76e380",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -3546,7 +3546,7 @@
     "iconUrl": "https://png.pngtree.com/png-vector/20191026/ourmid/pngtree-live-icon-design-template-vector-isolated-illustration-png-image_1874482.jpg",
     "apiVersion": 1,
     "fileHash": "sha256-8a45e9df95fc0305d1eabf09e20a4a67cd5b3d493aade4bdc018a50c81f83482",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -3571,7 +3571,7 @@
     "iconUrl": "https://www.movy.sx/icon-192x192.png",
     "apiVersion": 1,
     "fileHash": "sha256-f42f61e4172ac116e35065c8f9fba76d3cc0e70cd97f954b00c36818ebc29761",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -3595,7 +3595,7 @@
     "iconUrl": "https://m1.multimovies.courses/assets/img/logo.png",
     "apiVersion": 1,
     "fileHash": "sha256-8f79f5e35dbbb36b092ef5da428a7e976e2e001d657cb8bc3793fa60d752b840",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -3621,7 +3621,7 @@
     "iconUrl": "https://play-lh.googleusercontent.com/RVADHx9LB0v5T0icvbhDrnVN32jrNMGG6MpDKWnHK6uPIQESx0yIIbQNQBCj_GcX42HqnQ6Bf1sfkTKDMSrnQQ=w240-h480-rw",
     "apiVersion": 1,
     "fileHash": "sha256-0f79cf3f5406f4783faab0aaa47b195eb5e39908034e6bf66e17efc717346ccf",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -3647,7 +3647,7 @@
     "iconUrl": "https://netnaija.film/favicon.ico",
     "apiVersion": 1,
     "fileHash": "sha256-544d438715d18a63261f07c3d29179e700e8be5b3d5a8bc4222cdc9293d26939",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -3671,7 +3671,7 @@
     "iconUrl": "https://netnaija.film/favicon.ico",
     "apiVersion": 1,
     "fileHash": "sha256-9bf3f3aeb9f644f06facb6c602d15f255b10efe0851b698e440e7743b1aa683b",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -3695,7 +3695,7 @@
     "iconUrl": "https://cachedimages.podchaser.com/256x256/aHR0cHM6Ly9pLmF1ZGlvbWFjay5jb20vOWFuaW1lcy8zODE4MDE3MGZmLndlYnA%2FbWluPXRydWUmaGVpZ2h0PTE0MDAmd2lkdGg9MTQwMA%3D%3D/aHR0cHM6Ly93d3cucG9kY2hhc2VyLmNvbS9pbWFnZXMvbWlzc2luZy1pbWFnZS5wbmc%3D",
     "apiVersion": 1,
     "fileHash": "sha256-10ce19acaf0070869fb14682468c0f5e181b817d6ae4db4bce3761eb5643ccc1",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -3719,7 +3719,7 @@
     "iconUrl": "https://www.pngall.com/wp-content/uploads/13/Anime-Logo-PNG-Images.png",
     "apiVersion": 1,
     "fileHash": "sha256-89b7f6dba39e5df32b73c24db4a6b74bd180259f7752ab9f94f0af64ea79b754",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -3743,7 +3743,7 @@
     "iconUrl": "https://www.pngall.com/wp-content/uploads/13/Anime-Logo-PNG-Images.png",
     "apiVersion": 1,
     "fileHash": "sha256-bb021f95507ee2e3877b1f3f2991a68ec4838b5e0311b924b49b263432ec161e",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -3768,7 +3768,7 @@
     "iconUrl": "https://www.rareanimes.mov/wp-content/uploads/2023/11/cropped-Rare-Animes-India.png",
     "apiVersion": 1,
     "fileHash": "sha256-0d3fbe06885965b2a14cdd1702caa70565f79dbfebb2d7b14139390fc816b30e",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -3792,7 +3792,7 @@
     "iconUrl": "https://reanime.to/favicon-32x32.png",
     "apiVersion": 1,
     "fileHash": "sha256-36181bb558d0055f9046f83a8f5aec01c2790463a5cca05cf2ce3b90d45dbde7",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -3816,7 +3816,7 @@
     "iconUrl": "https://senshi.to/assets/Senshi_Logo-D4bDbCzd.png",
     "apiVersion": 1,
     "fileHash": "sha256-f21d2fed4095c0d70d3f3e647a466f98ee3c148f55e5b6bf43a78f7bc44ce8c2",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -3839,7 +3839,7 @@
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj_C9WX4AwepepLyw_cF-EIJeRpqgI4wDiquYSoP9xDFFAKFtTVM-P_zo&s=10",
     "apiVersion": 1,
     "fileHash": "sha256-07ba9d520134179ee7c654ea9626cba560e6d496fb5c59083e92096dbdfa3c0a",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -3864,7 +3864,7 @@
     "iconUrl": "https://toonix.bond/icon.png?df3a3feb46702fd9",
     "apiVersion": 1,
     "fileHash": "sha256-ab0ae2261f88c995d52c48122fbf525c98b90d25a8a375eef70ce28df41dd2e6",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -3891,7 +3891,7 @@
     "iconUrl": "https://png.pngtree.com/element_our/png/20181227/movie-icon-which-is-designed-for-all-application-purpose-new-png_287896.jpg",
     "apiVersion": 1,
     "fileHash": "sha256-bd88183ba7f3381ac2b5d94eed2ba081aa8ec666f44b82e6f445db4553152a21",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -3915,14 +3915,14 @@
     "iconUrl": "https://wallpapers.com/images/hd/anime-symbols-full-metal-alchemist-homunculi-black-and-red-59twpz44gslsiv1o.jpg",
     "apiVersion": 1,
     "fileHash": "sha256-7df4c2f45a58ee776e8c8ec0315f7bcc42c4389bf26203edffa230e390f719e9",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/VegaMovies.cs3",
     "status": 1,
     "version": 7,
-    "name": "VegaMovies [raghav repo]",
+    "name": "VegaMovies [Raghav Repo]",
     "internalName": "VegaMovies_raghav_repo",
     "authors": [
       "KSHITIJ8473"
@@ -3938,7 +3938,7 @@
     "iconUrl": "https://play-lh.googleusercontent.com/rU_X9wYHWc1V4OeSodaIhDRJF3cf7VNtc9zRcpP9Y2vHgAOttPcDqnbChe_Nx7M7KDt1oJ4hva6WXGjnPurQcuc",
     "apiVersion": 1,
     "fileHash": "sha256-2b3f1a8abc4e8d637f57522537e8110de771f3f1aca9ff0520838e33df287f66",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": true
   },
   {
@@ -3962,7 +3962,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=xanime.me&sz=%size%",
     "apiVersion": 1,
     "fileHash": "sha256-be3a8b8b0c48a255e8cfe5e3b1e4672739542a536a61573d0d59abedeba2bd6f",
-    "sourceRepo": "raghav repo",
+    "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
   {
@@ -5106,8 +5106,8 @@
     "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/Bollyflix.cs3",
     "status": 1,
     "version": 15,
-    "name": "Bollyflix [XtronRepo]",
-    "internalName": "Bollyflix_xtronrepo",
+    "name": "Bollyflix [Xtron Repo]",
+    "internalName": "Bollyflix_xtron_repo",
     "authors": [
       "Xtron"
     ],
@@ -5124,15 +5124,15 @@
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/Bollyflix.png",
     "apiVersion": 1,
     "fileHash": "sha256-3f4fdd891585eeb3bb53fbe01f2f007702cbad7e1bf9863a7c2571fed873f610",
-    "sourceRepo": "XtronRepo",
+    "sourceRepo": "Xtron Repo",
     "isDuplicate": true
   },
   {
     "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/DudeFilms.cs3",
     "status": 1,
     "version": 21,
-    "name": "DudeFilms [XtronRepo]",
-    "internalName": "DudeFilms_xtronrepo",
+    "name": "DudeFilms [Xtron Repo]",
+    "internalName": "DudeFilms_xtron_repo",
     "authors": [
       "Xtron"
     ],
@@ -5147,7 +5147,7 @@
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/dudefilms.png",
     "apiVersion": 1,
     "fileHash": "sha256-b05698d5c887e076a798ed35e944df470f8c6eaa9ec599d1b4b11a1e29f91f0f",
-    "sourceRepo": "XtronRepo",
+    "sourceRepo": "Xtron Repo",
     "isDuplicate": true
   },
   {
@@ -5170,7 +5170,7 @@
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/HDHUB.png",
     "apiVersion": 1,
     "fileHash": "sha256-3623c36a7157e2adea3d42a3046d561e782a519bc74155d55e813fa56b7f35cd",
-    "sourceRepo": "XtronRepo",
+    "sourceRepo": "Xtron Repo",
     "isDuplicate": false
   },
   {
@@ -5193,15 +5193,15 @@
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/HDMovie2.png",
     "apiVersion": 1,
     "fileHash": "sha256-457eabe8dbc548febd11cc79ede05bf604885b5dbf200d5da53411858d736378",
-    "sourceRepo": "XtronRepo",
+    "sourceRepo": "Xtron Repo",
     "isDuplicate": false
   },
   {
     "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MicroTV.cs3",
     "status": 1,
     "version": 4,
-    "name": "MicroTV [XtronRepo]",
-    "internalName": "MicroTV_xtronrepo",
+    "name": "MicroTV [Xtron Repo]",
+    "internalName": "MicroTV_xtron_repo",
     "authors": [
       "Xtron"
     ],
@@ -5216,15 +5216,15 @@
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MicroTV.png",
     "apiVersion": 1,
     "fileHash": "sha256-060781ef57e86aa5efa5f9e6ea20350805bf962ebb76f6b3698c8e6e7d5b5c43",
-    "sourceRepo": "XtronRepo",
+    "sourceRepo": "Xtron Repo",
     "isDuplicate": true
   },
   {
     "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MovieBox.cs3",
     "status": 1,
     "version": 38,
-    "name": "MovieBox [XtronRepo]",
-    "internalName": "MovieBox_xtronrepo",
+    "name": "MovieBox [Xtron Repo]",
+    "internalName": "MovieBox_xtron_repo",
     "authors": [
       "Xtron"
     ],
@@ -5239,7 +5239,7 @@
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MovieBox.png",
     "apiVersion": 1,
     "fileHash": "sha256-ed3e40523f308c5adee9384f0abe80fe48ac9de4df0599f3b4209c85bae2ae41",
-    "sourceRepo": "XtronRepo",
+    "sourceRepo": "Xtron Repo",
     "isDuplicate": true
   },
   {
@@ -5262,15 +5262,15 @@
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MovieBox.png",
     "apiVersion": 1,
     "fileHash": "sha256-a63abe8f0b1d29397ffb9b68a42f46a0e4a3d0058720f248f6c4a79461bdb109",
-    "sourceRepo": "XtronRepo",
+    "sourceRepo": "Xtron Repo",
     "isDuplicate": false
   },
   {
     "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/Movies4u.cs3",
     "status": 1,
     "version": 24,
-    "name": "Movies4u [XtronRepo]",
-    "internalName": "Movies4u_xtronrepo",
+    "name": "Movies4u [Xtron Repo]",
+    "internalName": "Movies4u_xtron_repo",
     "authors": [
       ""
     ],
@@ -5285,7 +5285,7 @@
     "iconUrl": "https://raw.githubusercontent.com/mrxtron/CloudStream-Extension/refs/heads/main/Files/Icons/movies4u.png",
     "apiVersion": 1,
     "fileHash": "sha256-a4d2a9acf122be4a892cd418080c390da2c32f11bd6a31c1610cc457f9d4db67",
-    "sourceRepo": "XtronRepo",
+    "sourceRepo": "Xtron Repo",
     "isDuplicate": true
   },
   {
@@ -5309,7 +5309,7 @@
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MultiMoviesProvider.png",
     "apiVersion": 1,
     "fileHash": "sha256-902017445c6c7f47082277ebf5a0f6d335685bd4da173e260c0214b63b693f2f",
-    "sourceRepo": "XtronRepo",
+    "sourceRepo": "Xtron Repo",
     "isDuplicate": false
   },
   {
@@ -5331,15 +5331,15 @@
     "iconUrl": "https://cdn.mytuner.mobi/static/ctr/icons/App_192x192/in.png",
     "apiVersion": 1,
     "fileHash": "sha256-ded2da20a4223d0cba01b5c9a95ce9717e51dc133da98b974f23d8d0c291c984",
-    "sourceRepo": "XtronRepo",
+    "sourceRepo": "Xtron Repo",
     "isDuplicate": false
   },
   {
     "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/ToonHub.cs3",
     "status": 1,
     "version": 11,
-    "name": "ToonHub [XtronRepo]",
-    "internalName": "ToonHub_xtronrepo",
+    "name": "ToonHub [Xtron Repo]",
+    "internalName": "ToonHub_xtron_repo",
     "authors": [
       "Xtron"
     ],
@@ -5355,7 +5355,7 @@
     "iconUrl": "https://toonhub4u.me/wp-content/uploads/2024/02/Untitled.png",
     "apiVersion": 1,
     "fileHash": "sha256-738f393fc3361f1edc7f2dd423cc1c4437201550f56a0b96e35d8318f5ff23cd",
-    "sourceRepo": "XtronRepo",
+    "sourceRepo": "Xtron Repo",
     "isDuplicate": true
   },
   {
@@ -5377,7 +5377,7 @@
     "iconUrl": "https://www.toontales.net/wp-content/uploads/favicon.png",
     "apiVersion": 1,
     "fileHash": "sha256-b79b4d02784fd464ecb7317689419c1efb3e8742f47451ee63ee61714ecba318",
-    "sourceRepo": "XtronRepo",
+    "sourceRepo": "Xtron Repo",
     "isDuplicate": false
   },
   {
@@ -5402,7 +5402,7 @@
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/VegaMovies.png",
     "apiVersion": 1,
     "fileHash": "sha256-1c819fc4d2008c5be20c1621a925684078fdc9141661930f7eb30545b7408a95",
-    "sourceRepo": "XtronRepo",
+    "sourceRepo": "Xtron Repo",
     "isDuplicate": false
   },
   {
@@ -5425,7 +5425,7 @@
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronPlay.png",
     "apiVersion": 1,
     "fileHash": "sha256-bf14224b80fbac1d962ce7d92dc8a1b32b89b5d737dd5d6511a8128b84f01d71",
-    "sourceRepo": "XtronRepo",
+    "sourceRepo": "Xtron Repo",
     "isDuplicate": false
   },
   {
@@ -5448,7 +5448,7 @@
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronPlayM.png",
     "apiVersion": 1,
     "fileHash": "sha256-968e0f422a7634415f592bedcd3b4ff200636410a2b82ba0186bcf70d9076844",
-    "sourceRepo": "XtronRepo",
+    "sourceRepo": "Xtron Repo",
     "isDuplicate": false
   },
   {
@@ -5471,14 +5471,14 @@
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronTV.png",
     "apiVersion": 1,
     "fileHash": "sha256-0796b0d7f5469a7f7e6bdd0042195f8d500a84bdebb3f3956beab8a4c526b47b",
-    "sourceRepo": "XtronRepo",
+    "sourceRepo": "Xtron Repo",
     "isDuplicate": false
   },
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "name": "CineStream [XtronRepo]",
-    "internalName": "CineStream_xtronrepo",
+    "name": "CineStream [Xtron Repo]",
+    "internalName": "CineStream_xtron_repo",
     "authors": [
       "megix"
     ],
@@ -5494,14 +5494,14 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "sourceRepo": "XtronRepo",
+    "sourceRepo": "Xtron Repo",
     "isDuplicate": true
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "name": "StreamPlay [XtronRepo]",
-    "internalName": "StreamPlay_xtronrepo",
+    "name": "StreamPlay [Xtron Repo]",
+    "internalName": "StreamPlay_xtron_repo",
     "authors": [
       "Phisher98",
       "Hexated"
@@ -5519,14 +5519,14 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "sourceRepo": "XtronRepo",
+    "sourceRepo": "Xtron Repo",
     "isDuplicate": true
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Ultima.cs3",
     "status": 2,
-    "name": "Ultima [XtronRepo]",
-    "internalName": "Ultima_xtronrepo",
+    "name": "Ultima [Xtron Repo]",
+    "internalName": "Ultima_xtron_repo",
     "authors": [
       "RowdyRushya,Phisher98"
     ],
@@ -5538,7 +5538,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Ultima.jpg",
     "apiVersion": 1,
-    "sourceRepo": "XtronRepo",
+    "sourceRepo": "Xtron Repo",
     "isDuplicate": true
   },
   {
@@ -5655,5 +5655,304 @@
     "fileHash": "sha256-a5610670557d674f8a7e94c9db148a853be3d0eccefc42c5e8d7a07957fbb16a",
     "sourceRepo": "Eclipsia",
     "isDuplicate": false
+  },
+  {
+    "url": "https://raw.githubusercontent.com/dipender98/Indflix/builds/IndStream.cs3",
+    "status": 1,
+    "version": 91,
+    "name": "IndStream",
+    "internalName": "IndStream",
+    "authors": [
+      "Indflix"
+    ],
+    "description": "Federated embed-server resolver keyed by TMDB/IMDB id. Races dozens of independent HLS/DASH servers, picks the fastest CDN per title, and exposes multi-language audio + per-quality links.",
+    "fileSize": 372335,
+    "repositoryUrl": "https://github.com/dipender98/Indflix",
+    "language": "hi",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/dipender98/Indflix/main/IndStream/icon.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-c207c44c39956060197dc9bc74375ece5dd506770a0cd9b2732da50964281fe5",
+    "sourceRepo": "Indflix",
+    "isDuplicate": false
+  },
+  {
+    "url": "https://raw.githubusercontent.com/dipender98/Indflix/builds/Multimovies.cs3",
+    "status": 1,
+    "version": 48,
+    "name": "Multimovies [Indflix]",
+    "internalName": "Multimovies_indflix",
+    "authors": [
+      "Indflix"
+    ],
+    "description": "CloudStream provider that scrapes Multimovies and pulls sources in parallel with a per-source timeout.",
+    "fileSize": 127352,
+    "repositoryUrl": "https://github.com/dipender98/Indflix",
+    "language": "hi",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AnimeMovie",
+      "Cartoon"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/dipender98/Indflix/main/Multimovies/icon.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-41a3775e02243f324586b3fd30cdb6b2ac1a73d6ec7527a14df2c6f55883ea91",
+    "sourceRepo": "Indflix",
+    "isDuplicate": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/dipender98/Indflix/builds/Vegamovies.cs3",
+    "status": 1,
+    "version": 12,
+    "name": "Vegamovies",
+    "internalName": "Vegamovies",
+    "authors": [
+      "Indflix"
+    ],
+    "description": "CloudStream provider that scrapes Vegamovies (Hollywood + Bollywood) with TMDB metadata and live-fill download servers.",
+    "fileSize": 50833,
+    "repositoryUrl": "https://github.com/dipender98/Indflix",
+    "language": "hi",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/dipender98/Indflix/main/Vegamovies/icon.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-70d008d17b944236a85d0ad742caa61c7a612a3f4e7e3dbccd9ece9603a72852",
+    "sourceRepo": "Indflix",
+    "isDuplicate": false
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/ShakzzVerse.png",
+    "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
+    "fileSize": 66295,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "Shakzz"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 63,
+    "internalName": "ShakzzVerse",
+    "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
+    "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/ShakzzVerse.cs3",
+    "name": "ShakzzVerse",
+    "sourceRepo": "Shakzz Repo",
+    "isDuplicate": false
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/AnimePhoenix.jpg",
+    "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
+    "fileSize": 57932,
+    "status": 1,
+    "language": "ar",
+    "authors": [
+      "Shakzz"
+    ],
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "version": 1,
+    "internalName": "AnimePhoenix_shakzz_repo",
+    "description": "Arabic subbed and dubbed anime from Anime Phoenix.",
+    "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/AnimePhoenix.cs3",
+    "name": "AnimePhoenix [Shakzz Repo]",
+    "sourceRepo": "Shakzz Repo",
+    "isDuplicate": true
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/WitAnime.png",
+    "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
+    "fileSize": 39241,
+    "status": 1,
+    "language": "ar",
+    "authors": [
+      "Shakzz"
+    ],
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "version": 1,
+    "internalName": "WitAnime",
+    "description": "Arabic subbed and dubbed anime from WitAnime.",
+    "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/WitAnime.cs3",
+    "name": "WitAnime",
+    "sourceRepo": "Shakzz Repo",
+    "isDuplicate": false
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/netflix.jpg",
+    "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
+    "fileSize": 9047,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "Shakzz"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "NetMirror_shakzz_repo",
+    "description": "Orginally called NetNaija Watch stream now",
+    "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/Netmirror.cs3",
+    "name": "NetMirror [Shakzz Repo]",
+    "sourceRepo": "Shakzz Repo",
+    "isDuplicate": true
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/Viu.png",
+    "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
+    "fileSize": 50657,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "Shakzz"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "Viu",
+    "description": "Viu Philippines: Asian dramas, movies and shows with English subtitles.",
+    "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/Viu.cs3",
+    "name": "Viu",
+    "sourceRepo": "Shakzz Repo",
+    "isDuplicate": false
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/AniSuge.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "AniSuge [Shakzz Repo]",
+    "internalName": "AniSuge_shakzz_repo",
+    "authors": [
+      "Shakzz"
+    ],
+    "description": "Anime from AniSuge with Sub and Dub support",
+    "fileSize": 70299,
+    "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
+    "language": "en",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/AniSuge.jpg",
+    "apiVersion": 1,
+    "sourceRepo": "Shakzz Repo",
+    "isDuplicate": true
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/moviebox.jpg",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
+    "fileSize": 86248,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "shakzz05"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 2,
+    "internalName": "MovieBox_shakzz_repo",
+    "description": "MovieBox provider extension",
+    "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/MovieBox.cs3",
+    "name": "MovieBox [Shakzz Repo]",
+    "sourceRepo": "Shakzz Repo",
+    "isDuplicate": true
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/kisskh.jpg",
+    "jarFileSize": 110555,
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
+    "fileSize": 25175,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "Shakzz"
+    ],
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries",
+      "Anime",
+      "Movie"
+    ],
+    "version": 11,
+    "internalName": "KisskhProvider_shakzz_repo",
+    "jarUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/KisskhProvider.jar",
+    "description": "KDrama, CDrama. Anime, TVSeries",
+    "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/KisskhProvider.cs3",
+    "name": "KisskhProvider [Shakzz Repo]",
+    "sourceRepo": "Shakzz Repo",
+    "isDuplicate": true
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/Animexin.png",
+    "jarFileSize": 55663,
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
+    "fileSize": 31338,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "Shakzz"
+    ],
+    "tvTypes": [
+      "AnimeMovie",
+      "Anime",
+      "Cartoon"
+    ],
+    "version": 7,
+    "internalName": "Animexin_shakzz_repo",
+    "description": "Anime and Movies",
+    "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/Animexin.cs3",
+    "name": "Animexin [Shakzz Repo]",
+    "sourceRepo": "Shakzz Repo",
+    "isDuplicate": true
+  },
+  {
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pinoymoviepedia.ru&size=16",
+    "jarFileSize": 84834,
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
+    "fileSize": 18673,
+    "status": 1,
+    "language": "fil",
+    "authors": [
+      "Shakzz"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 2,
+    "internalName": "Pinoymoviepedia_shakzz_repo",
+    "jarUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/Pinoymoviepedia.jar",
+    "description": "Contains Bluray7",
+    "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/Pinoymoviepedia.cs3",
+    "name": "Pinoymoviepedia [Shakzz Repo]",
+    "sourceRepo": "Shakzz Repo",
+    "isDuplicate": true
   }
 ]
