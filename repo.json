@@ -1,0 +1,9 @@
+{
+  "name": "CloudStream Master Unified Repo",
+  "description": "Unified multi-source CloudStream repository with zero duplicate deletions. Automatically updated via GitHub Actions.",
+  "manifestVersion": 1,
+  "iconUrl": "https://raw.githubusercontent.com/LagradOst/CloudStream-3/master/app/src/main/res/drawable/ic_launcher.png",
+  "pluginLists": [
+    "https://djjunaidkhan.github.io/cloudstream-master-repo/plugins.json"
+  ]
+}
