@@ -5244,14 +5244,14 @@
   {
     "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MovieBox.cs3",
     "status": 1,
-    "version": 46,
+    "version": 47,
     "name": "MovieBox [Xtron Repo]",
     "internalName": "MovieBox_xtron_repo",
     "authors": [
       "Xtron"
     ],
     "description": "Multi Language Movies and Series Provider",
-    "fileSize": 259458,
+    "fileSize": 260624,
     "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
     "language": "hi",
     "tvTypes": [
@@ -5260,7 +5260,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MovieBox.png",
     "apiVersion": 1,
-    "fileHash": "sha256-05d0e443c4b6604fd420986020b4de1bd9a5701ca0241a5f0b9edc6ed52850a0",
+    "fileHash": "sha256-56a4aa3776c43ba334c2750d57f27fcc1c8370e924b841dd49b36166d34e3be8",
     "sourceRepo": "Xtron Repo",
     "isDuplicate": true
   },
@@ -5412,7 +5412,7 @@
       "Xtron"
     ],
     "description": "(Includes RogMovies) Ultimate Portal for HD Movies & Web Series",
-    "fileSize": 163758,
+    "fileSize": 163788,
     "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
     "language": "hi",
     "tvTypes": [
@@ -5423,7 +5423,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/VegaMovies.png",
     "apiVersion": 1,
-    "fileHash": "sha256-93aea063def315a1f6b6672b9b2e80e84bc6355c75520992a1f9c852516f5b65",
+    "fileHash": "sha256-4f82ac21dbe604bb08586db8447fef5437f8f541bfc068999da8640f9591e3a4",
     "sourceRepo": "Xtron Repo",
     "isDuplicate": false
   },
@@ -5564,16 +5564,16 @@
     "isDuplicate": true
   },
   {
-    "url": "https://cs.eclipsia.dpdns.org/files/dad43e637d70eca3/Eclipsia.cs3",
+    "url": "https://cs.eclipsia.dpdns.org/files/d00d8b1596315ce9/Eclipsia.cs3",
     "status": 1,
-    "version": 10,
+    "version": 11,
     "name": "Eclipsia",
     "internalName": "Eclipsia",
     "authors": [
       "Eclipsia"
     ],
     "description": "Curated collection of Providers",
-    "fileSize": 1056869,
+    "fileSize": 1054898,
     "repositoryUrl": "https://gitea.com/eclipsia/cloudstream",
     "language": "en",
     "tvTypes": [
@@ -5582,21 +5582,21 @@
     ],
     "iconUrl": "https://cs3-server.orkestr.run/img/47cdacc9a3f2f869.png",
     "apiVersion": 1,
-    "fileHash": "sha256-dad43e637d70eca3079a556ddc582a8834ea6381f86411491268d43a25022f80",
+    "fileHash": "sha256-d00d8b1596315ce9c2a11b5aadc54f75036ce83c1df13fe5b0a99aeb83425d52",
     "sourceRepo": "Eclipsia",
     "isDuplicate": false
   },
   {
-    "url": "https://cs.eclipsia.dpdns.org/files/65dba6a6857e5571/EclipsiaAnime.cs3",
+    "url": "https://cs.eclipsia.dpdns.org/files/bf4b74f398e3f106/EclipsiaAnime.cs3",
     "status": 1,
-    "version": 10,
+    "version": 11,
     "name": "EclipsiaAnime",
     "internalName": "EclipsiaAnime",
     "authors": [
       "Eclipsia"
     ],
     "description": "AniList & Kitsu Catalog with Anime Providers",
-    "fileSize": 996184,
+    "fileSize": 996106,
     "repositoryUrl": "https://gitea.com/eclipsia/cloudstream",
     "language": "en",
     "tvTypes": [
@@ -5606,21 +5606,21 @@
     ],
     "iconUrl": "https://cs3-server.orkestr.run/img/47cdacc9a3f2f869.png",
     "apiVersion": 1,
-    "fileHash": "sha256-65dba6a6857e55718388ce6a6f1feac8e3c9b1622613d981843ba0fda2335e81",
+    "fileHash": "sha256-bf4b74f398e3f10656f27768f3280a9c06a46b4c26bfe0446609952cc025eaf5",
     "sourceRepo": "Eclipsia",
     "isDuplicate": false
   },
   {
-    "url": "https://cs.eclipsia.dpdns.org/files/634b498f8635e82f/EclipsiaBDIX.cs3",
+    "url": "https://cs.eclipsia.dpdns.org/files/1758b60e2025909a/EclipsiaBDIX.cs3",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "EclipsiaBDIX",
     "internalName": "EclipsiaBDIX",
     "authors": [
       "Eclipsia"
     ],
     "description": "Bangladesh Only",
-    "fileSize": 849229,
+    "fileSize": 849222,
     "repositoryUrl": "https://gitea.com/eclipsia/cloudstream",
     "language": "en",
     "tvTypes": [
@@ -5629,21 +5629,21 @@
     ],
     "iconUrl": "https://cs3-server.orkestr.run/img/113e041859b58540.png",
     "apiVersion": 1,
-    "fileHash": "sha256-634b498f8635e82f8948d4342743e91e13d2f7357c00a80cde8bf2e7bd7fd6f4",
+    "fileHash": "sha256-1758b60e2025909abacb22b9edc9eab140f706ab82cd0c48ecae0bf25244674e",
     "sourceRepo": "Eclipsia",
     "isDuplicate": false
   },
   {
-    "url": "https://cs.eclipsia.dpdns.org/files/5aec637b5d2d89c7/LiveSports.cs3",
+    "url": "https://cs.eclipsia.dpdns.org/files/ac788dcd6aeb50fd/LiveSports.cs3",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "LiveSports",
     "internalName": "LiveSports",
     "authors": [
       "Eclipsia"
     ],
     "description": "Live Sports Events",
-    "fileSize": 2921733,
+    "fileSize": 2921728,
     "repositoryUrl": "https://gitea.com/eclipsia/cloudstream",
     "language": "en",
     "tvTypes": [
@@ -5651,21 +5651,21 @@
     ],
     "iconUrl": "https://cs3-server.orkestr.run/img/1af19da1f4cde7ed.png",
     "apiVersion": 1,
-    "fileHash": "sha256-5aec637b5d2d89c7db1f880307bd32e2c98193ed1b274135ca26714f8c2a603c",
+    "fileHash": "sha256-ac788dcd6aeb50fd3e15fcaf8ede1e775ecfdf4f8e8010b722c49a8d29d59f81",
     "sourceRepo": "Eclipsia",
     "isDuplicate": false
   },
   {
-    "url": "https://cs.eclipsia.dpdns.org/files/a5610670557d674f/NetMirror.cs3",
+    "url": "https://cs.eclipsia.dpdns.org/files/04b7bc0a586924a8/NetMirror.cs3",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "NetMirror",
     "internalName": "NetMirror",
     "authors": [
       "Eclipsia"
     ],
     "description": "Netflix, Prime Video, Disney+ & more",
-    "fileSize": 164129,
+    "fileSize": 164123,
     "repositoryUrl": "https://gitea.com/eclipsia/cloudstream",
     "language": "en",
     "tvTypes": [
@@ -5674,7 +5674,7 @@
     ],
     "iconUrl": "https://cs3-server.orkestr.run/img/66620f82ee5045fb.png",
     "apiVersion": 1,
-    "fileHash": "sha256-a5610670557d674f8a7e94c9db148a853be3d0eccefc42c5e8d7a07957fbb16a",
+    "fileHash": "sha256-04b7bc0a586924a84e410d588330f7113d0a3352ceddf6c26f492e45271c384e",
     "sourceRepo": "Eclipsia",
     "isDuplicate": false
   },
