@@ -220,23 +220,23 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AniKoto.cs3",
     "status": 1,
-    "version": 6,
+    "version": 7,
     "name": "AniKoto",
     "internalName": "AniKoto",
     "authors": [
       "phisher98"
     ],
     "description": "AniKoto",
-    "fileSize": 82813,
+    "fileSize": 83032,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
       "Anime",
       "AnimeMovie"
     ],
-    "iconUrl": "https://anikototv.to/AnikotoTheme/assets/images/favicon.png",
+    "iconUrl": "https://anikototv.bz/AnikotoTheme/assets/images/favicon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-da02652fc7fe17a7b904453cb714a447bac87af60371f84eb01afdd95d2cf51d",
+    "fileHash": "sha256-fd6926b0c08c1cc9ccb832b1f5fa1a34055fe3a468498d1539a4f31168f36dec",
     "sourceRepo": "Phisher Repo",
     "isDuplicate": false
   },
@@ -1723,7 +1723,7 @@
       "Hexated"
     ],
     "description": "#1 best extension based on MultiAPI",
-    "fileSize": 2181036,
+    "fileSize": 2181035,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -1736,7 +1736,7 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-b4ad26b1d2f18cd30450e4dd75242dd8bfcaf475e30dcca4924613abe9f5397e",
+    "fileHash": "sha256-bf58030b4a58e8f919d433e1f5fb1983ac306ed85d625f998ca2afa7742fbaab",
     "sourceRepo": "Phisher Repo",
     "isDuplicate": false
   },
@@ -2071,6 +2071,30 @@
     "iconUrl": "https://huh.xdmovies.wtf/assets/logo1.png",
     "apiVersion": 1,
     "fileHash": "sha256-92dcb836c74e4d921077899a29d7156dfbd0705a793c9683e038a9d46ac8cd4e",
+    "sourceRepo": "Phisher Repo",
+    "isDuplicate": false
+  },
+  {
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/XonProvider.cs3",
+    "status": 1,
+    "version": 11,
+    "name": "XonProvider",
+    "internalName": "XonProvider",
+    "authors": [
+      "Phisher98"
+    ],
+    "description": "Xon Provider for Anime and Cartoons - Tamil, Hindi, Telugu, English, Japanese",
+    "fileSize": 76118,
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "language": "hi",
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "Anime"
+    ],
+    "iconUrl": "https://play-lh.googleusercontent.com/zVq_wAus2snoO-ggyI6IomlsCzfybAozQOGYpBrv71r1--rOYOYWsr_N7DWwVp9t7ro=s248-rw",
+    "apiVersion": 1,
+    "fileHash": "sha256-866fc8915b84ebc2664f6cf0edd9945b994c51da16166f6d8955097eb1a821be",
     "sourceRepo": "Phisher Repo",
     "isDuplicate": false
   },
@@ -3117,12 +3141,12 @@
       "Anime"
     ],
     "version": 36,
-    "internalName": "XonProvider",
+    "internalName": "XonProvider_cnc_repo_all_language",
     "description": "Xon Provider for Anime and Cartoons - Tamil, Hindi, Telugu, English, Japanese",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/XonProvider.cs3",
-    "name": "XonProvider",
+    "name": "XonProvider [CNC Repo (All Language)]",
     "sourceRepo": "CNC Repo (All Language)",
-    "isDuplicate": false
+    "isDuplicate": true
   },
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/AniChan.cs3",
@@ -3301,7 +3325,7 @@
       "raghav"
     ],
     "description": "Anime with Sub & Dub and multi audio",
-    "fileSize": 90019,
+    "fileSize": 91174,
     "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
     "language": "en",
     "tvTypes": [
@@ -3311,7 +3335,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=ani.pm&sz=64",
     "apiVersion": 1,
-    "fileHash": "sha256-6c8238753e22246567b894a40496eb7ee3908fd39786aa9044abdb66b30fee70",
+    "fileHash": "sha256-b3e2bb19feb80eb01679d1484f92f3b65e612f72ce2d2a735e2f885f81f561dc",
     "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
@@ -3753,7 +3777,7 @@
       "raghav"
     ],
     "description": "ONE STOP SOLUTION FOR ANIME(SUB,DUB,hardsub) collection of best sources",
-    "fileSize": 712661,
+    "fileSize": 723810,
     "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
     "language": "en",
     "tvTypes": [
@@ -3763,7 +3787,7 @@
     ],
     "iconUrl": "https://www.pngall.com/wp-content/uploads/13/Anime-Logo-PNG-Images.png",
     "apiVersion": 1,
-    "fileHash": "sha256-7a025372b283979292da4afc9ea9613bc3e8c10e394dba165ee3f382a74af8a7",
+    "fileHash": "sha256-07fb0a31a6c233af2becea05a9df65054155890f46f57201d2824d8d3187bfbf",
     "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
@@ -3777,7 +3801,7 @@
       "raghav"
     ],
     "description": "ONE STOP SOLUTION FOR ANIME(SUB,DUB,hardsub) collection of best sources - Kitsu Catalog",
-    "fileSize": 700816,
+    "fileSize": 711588,
     "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
     "language": "en",
     "tvTypes": [
@@ -3787,7 +3811,7 @@
     ],
     "iconUrl": "https://www.pngall.com/wp-content/uploads/13/Anime-Logo-PNG-Images.png",
     "apiVersion": 1,
-    "fileHash": "sha256-bce2eb5a2c8b980e99b87568860eab7a7970be98909cfe897c186abdaa2db2ee",
+    "fileHash": "sha256-40d8bac3b36fb0a67204df5e364c4deb12c18f92ebb1bbd0971d7c2ad67c9378",
     "sourceRepo": "Raghav Repo",
     "isDuplicate": false
   },
@@ -5157,7 +5181,7 @@
       "Xtron"
     ],
     "description": "Movies and Series upto 4K",
-    "fileSize": 146391,
+    "fileSize": 149469,
     "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
     "language": "hi",
     "tvTypes": [
@@ -5168,7 +5192,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/Bollyflix.png",
     "apiVersion": 1,
-    "fileHash": "sha256-2718c075f58dde8a6bc4167bff938bc44ad809aae1789dbba3ed381643af995c",
+    "fileHash": "sha256-57b3240e4060114c9cf72de5c9a95b3d6f1b6a3d97cc39cb862392cf9cbef525",
     "sourceRepo": "Xtron Repo",
     "isDuplicate": true
   },
@@ -5182,7 +5206,7 @@
       "Xtron"
     ],
     "description": "Watch Movies & TvSeries (Multi-Lang)",
-    "fileSize": 159435,
+    "fileSize": 162570,
     "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
     "language": "hi",
     "tvTypes": [
@@ -5191,7 +5215,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/dudefilms.png",
     "apiVersion": 1,
-    "fileHash": "sha256-63b23c2dc6f56c03562930d69e820dd502290e9f6965182c8f911177a4b8c1c0",
+    "fileHash": "sha256-c4aee3e5f1714958b0164c86ef9dd5463a61214f71aa2c0ea0d8b21c377de4c4",
     "sourceRepo": "Xtron Repo",
     "isDuplicate": true
   },
@@ -5204,7 +5228,7 @@
     "authors": [
       "Xtron"
     ],
-    "fileSize": 182428,
+    "fileSize": 185656,
     "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
     "language": "hi",
     "tvTypes": [
@@ -5214,7 +5238,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/HDHUB.png",
     "apiVersion": 1,
-    "fileHash": "sha256-755a40f3f4675100482ce7db8773316914914b63ce10b79c92e5a3bb8b6226a2",
+    "fileHash": "sha256-5134131fd34b230f95a0d21f140c3d51b52bc2c615d48ae6dd8bdf128a3b60bd",
     "sourceRepo": "Xtron Repo",
     "isDuplicate": false
   },
@@ -5228,7 +5252,7 @@
       "Xtron"
     ],
     "description": "Hdmovie2",
-    "fileSize": 145727,
+    "fileSize": 148754,
     "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
     "language": "hi",
     "tvTypes": [
@@ -5237,7 +5261,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/HDMovie2.png",
     "apiVersion": 1,
-    "fileHash": "sha256-2fea9af4bde2a398ca5dbd03123b07fb852278cfcd8fde9118db1625d848d1b2",
+    "fileHash": "sha256-93204dae1b35210005291913c29c1c1da84bede15544566d78ea5f20010e5c9e",
     "sourceRepo": "Xtron Repo",
     "isDuplicate": false
   },
@@ -5251,7 +5275,7 @@
       "Xtron"
     ],
     "description": "Stream top vertical dramas and reels aggregated from multiple Indian short-video platforms.",
-    "fileSize": 152026,
+    "fileSize": 155644,
     "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
     "language": "hi",
     "tvTypes": [
@@ -5260,7 +5284,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MicroTV.png",
     "apiVersion": 1,
-    "fileHash": "sha256-ebe58444effb64054984d75d943299c9e99eac5573e073ea5e6512f41c4b5504",
+    "fileHash": "sha256-d335ecdce14d5747c6557b81461e5bd6754f5707fc147632ad1c82b18aaa1477",
     "sourceRepo": "Xtron Repo",
     "isDuplicate": true
   },
@@ -5274,7 +5298,7 @@
       "Xtron"
     ],
     "description": "Multi Language Movies and Series Provider",
-    "fileSize": 273254,
+    "fileSize": 276821,
     "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
     "language": "hi",
     "tvTypes": [
@@ -5283,7 +5307,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MovieBox.png",
     "apiVersion": 1,
-    "fileHash": "sha256-4128f15a5bdfa3d41e08d73cbba84f13f807a4e5dbfc40c9423895e42e42dc0b",
+    "fileHash": "sha256-710e13abe0b319b42d994e64e20f6b8581a2af3bd9f6c8946a3222bec44dbd41",
     "sourceRepo": "Xtron Repo",
     "isDuplicate": true
   },
@@ -5297,7 +5321,7 @@
       "Xtron"
     ],
     "description": "MovieBox- Movies and TV Series",
-    "fileSize": 155196,
+    "fileSize": 158696,
     "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
     "language": "hi",
     "tvTypes": [
@@ -5306,21 +5330,21 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MovieBox.png",
     "apiVersion": 1,
-    "fileHash": "sha256-fd68592da3b4cf4cb4325440713d471746f7bcec9c40218bf4344d26901bfba0",
+    "fileHash": "sha256-4ec4a28d2201b8782cde791fe9f23e8f3742089b2df9766f0e4c816af3e4f8c6",
     "sourceRepo": "Xtron Repo",
     "isDuplicate": false
   },
   {
     "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/Movies4u.cs3",
     "status": 1,
-    "version": 28,
+    "version": 29,
     "name": "Movies4u [Xtron Repo]",
     "internalName": "Movies4u_xtron_repo",
     "authors": [
       ""
     ],
     "description": "Movies4u",
-    "fileSize": 156567,
+    "fileSize": 160084,
     "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
     "language": "hi",
     "tvTypes": [
@@ -5329,7 +5353,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/mrxtron/CloudStream-Extension/refs/heads/main/Files/Icons/movies4u.png",
     "apiVersion": 1,
-    "fileHash": "sha256-51f24c635563ecab4c722c9f1fdf13ee2bca248acdc57884ceec0f70f9142150",
+    "fileHash": "sha256-cde48d58f2df4cd1475dd2f7481f42e52a26a7f49fea5b545d4e8c42cff33778",
     "sourceRepo": "Xtron Repo",
     "isDuplicate": true
   },
@@ -5343,7 +5367,7 @@
       "Xtron"
     ],
     "description": "Indian Multi-language HD Provider",
-    "fileSize": 152064,
+    "fileSize": 155740,
     "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
     "language": "hi",
     "tvTypes": [
@@ -5353,7 +5377,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MultiMoviesProvider.png",
     "apiVersion": 1,
-    "fileHash": "sha256-c5cde5c4773bb4ddc5b1ecd4cdb7346387045be4dd02252be59ccff7a1978b40",
+    "fileHash": "sha256-f0bc629e8b2259db404247b27eded3b7f8dbdb6184d34068e2c5f67d9998cb9c",
     "sourceRepo": "Xtron Repo",
     "isDuplicate": false
   },
@@ -5367,7 +5391,7 @@
       "Xtron"
     ],
     "description": "Radio India Provider",
-    "fileSize": 126843,
+    "fileSize": 130450,
     "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
     "language": "hi",
     "tvTypes": [
@@ -5375,21 +5399,21 @@
     ],
     "iconUrl": "https://cdn.mytuner.mobi/static/ctr/icons/App_192x192/in.png",
     "apiVersion": 1,
-    "fileHash": "sha256-a6ec8352f8cac5acd6bae06ca757e085d0acc54219473b8ae24cc18d10d3ac65",
+    "fileHash": "sha256-d289de0bae8f560facc3da8ca04ce8c48a2137910c36c1d497e6e31abecf9022",
     "sourceRepo": "Xtron Repo",
     "isDuplicate": false
   },
   {
     "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/ToonHub.cs3",
     "status": 1,
-    "version": 11,
+    "version": 12,
     "name": "ToonHub [Xtron Repo]",
     "internalName": "ToonHub_xtron_repo",
     "authors": [
       "Xtron"
     ],
     "description": "ToonHub4u Multi Language",
-    "fileSize": 135779,
+    "fileSize": 141100,
     "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
     "language": "hi",
     "tvTypes": [
@@ -5397,9 +5421,9 @@
       "Anime",
       "Cartoon"
     ],
-    "iconUrl": "https://toonhub4u.me/wp-content/uploads/2024/02/Untitled.png",
+    "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/ToonHub4u.png",
     "apiVersion": 1,
-    "fileHash": "sha256-e15b80053eb7869c4b74951e70257527d22633bd6d83fe36b02a41cfde9f696a",
+    "fileHash": "sha256-9d4fd18cd7aaadba8706b199d71425622cbd1aa018848da6cade69b206f730b1",
     "sourceRepo": "Xtron Repo",
     "isDuplicate": true
   },
@@ -5413,7 +5437,7 @@
       "Xtron"
     ],
     "description": "ToonTales",
-    "fileSize": 124032,
+    "fileSize": 127515,
     "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
     "language": "hi",
     "tvTypes": [
@@ -5421,7 +5445,7 @@
     ],
     "iconUrl": "https://www.toontales.net/wp-content/uploads/favicon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-ce58f46cbc02818be8919870d556493fc9bba1bd4143fe5a9344d2d8eae31fc8",
+    "fileHash": "sha256-0778d7608b610b6d9325a591ab8b5a524b0b9c0a2722685bafa37349eadb51df",
     "sourceRepo": "Xtron Repo",
     "isDuplicate": false
   },
@@ -5435,7 +5459,7 @@
       "Xtron"
     ],
     "description": "(Includes RogMovies) Ultimate Portal for HD Movies & Web Series",
-    "fileSize": 176115,
+    "fileSize": 179585,
     "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
     "language": "hi",
     "tvTypes": [
@@ -5446,7 +5470,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/VegaMovies.png",
     "apiVersion": 1,
-    "fileHash": "sha256-3923a1b65a013933a74c3df41876290c7fe16bc3d1c55b056eedb01e3e23c15e",
+    "fileHash": "sha256-6932a18bf777c5da9f83a90ff52636134c5c2fd75844069ca93bbe2b8254e265",
     "sourceRepo": "Xtron Repo",
     "isDuplicate": false
   },
@@ -5460,7 +5484,7 @@
       "Xtron"
     ],
     "description": "All-in-One Premium Stream Engine for Netflix, Prime Video, Hotstar, and Disney Studio Universes.",
-    "fileSize": 209306,
+    "fileSize": 212308,
     "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
     "language": "hi",
     "tvTypes": [
@@ -5469,7 +5493,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronPlay.png",
     "apiVersion": 1,
-    "fileHash": "sha256-5ab0efe0f09665b49b66aafd35390961e01f5f23b7a109179ac15ee8aca220c2",
+    "fileHash": "sha256-c93b482b6e427fe0bd655746e447a13056ed4b2daabffb7b42847156739e5d93",
     "sourceRepo": "Xtron Repo",
     "isDuplicate": false
   },
@@ -5483,7 +5507,7 @@
       "Xtron"
     ],
     "description": "Premium Stream Engine (Mobile Version) for Netflix, Prime Video, Hotstar, and Disney Studio Universes.",
-    "fileSize": 175579,
+    "fileSize": 178434,
     "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
     "language": "hi",
     "tvTypes": [
@@ -5492,14 +5516,14 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronPlayM.png",
     "apiVersion": 1,
-    "fileHash": "sha256-473a335e8ae4b9892359eefa39eb7c05e762059091fd05774fc8f961b2becaaa",
+    "fileHash": "sha256-17324fd8cd582d4e5c03d7d097ef975cac433442ef04eb988d3ca3e40a4ea977",
     "sourceRepo": "Xtron Repo",
     "isDuplicate": false
   },
   {
     "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/XtronTV.cs3",
     "status": 1,
-    "version": 27,
+    "version": 30,
     "name": "XtronTV",
     "internalName": "XtronTV",
     "authors": [
@@ -5507,7 +5531,7 @@
       "parmod19"
     ],
     "description": "Ultimate hub for Indian Hindi Daily Soaps & Dramas",
-    "fileSize": 215579,
+    "fileSize": 219449,
     "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
     "language": "hi",
     "tvTypes": [
@@ -5516,7 +5540,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronTV.png",
     "apiVersion": 1,
-    "fileHash": "sha256-53f6e56d8fc319f90ebe9c51aff76c845995cbfdb81d856d2d009ab9be9b6386",
+    "fileHash": "sha256-f5f37701171f6a5d3bc087491597db13ae87cf76cdb7a4686b5a71329c94cb6b",
     "sourceRepo": "Xtron Repo",
     "isDuplicate": false
   },
@@ -5705,14 +5729,14 @@
   {
     "url": "https://raw.githubusercontent.com/dipender98/Indflix/builds/IndStream.cs3",
     "status": 1,
-    "version": 95,
+    "version": 98,
     "name": "IndStream",
     "internalName": "IndStream",
     "authors": [
       "Indflix"
     ],
     "description": "Federated embed-server resolver keyed by TMDB/IMDB id. Races dozens of independent HLS/DASH servers, picks the fastest CDN per title, and exposes multi-language audio + per-quality links.",
-    "fileSize": 357507,
+    "fileSize": 358193,
     "repositoryUrl": "https://github.com/dipender98/Indflix",
     "language": "hi",
     "tvTypes": [
@@ -5722,21 +5746,21 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/dipender98/Indflix/main/IndStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-08c30f55b8bc3621658200625ee1886c79fce8578a5575f38fb55a8d3b339241",
+    "fileHash": "sha256-0c24d3563f1ddc8726a29417e3806a77c65eb459733b1884a7175d0060e7fc27",
     "sourceRepo": "Indflix",
     "isDuplicate": false
   },
   {
     "url": "https://raw.githubusercontent.com/dipender98/Indflix/builds/Multimovies.cs3",
     "status": 1,
-    "version": 49,
+    "version": 51,
     "name": "Multimovies [Indflix]",
     "internalName": "Multimovies_indflix",
     "authors": [
       "Indflix"
     ],
     "description": "Fast and Multi-Language Provider",
-    "fileSize": 132485,
+    "fileSize": 132276,
     "repositoryUrl": "https://github.com/dipender98/Indflix",
     "language": "hi",
     "tvTypes": [
@@ -5748,7 +5772,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/dipender98/Indflix/main/Multimovies/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-cbcf5fd8f077a30b8c6eafde56e1a8df4d824c7dd08b6bd9b021c63500d183d2",
+    "fileHash": "sha256-a08b7c6a1f6bacae09254f65699598ab92d85f05673bcd791022b3a1794e83c4",
     "sourceRepo": "Indflix",
     "isDuplicate": true
   },
@@ -5771,7 +5795,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/dipender98/Indflix/main/Vegamovies/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-ba13768a97033f7c0183cd589783489d59610351c05b8f3c82e5100dc09ec402",
+    "fileHash": "sha256-2d181c3a4caf0b7f5f7a0495210ceeacf3948d74538ad1c294acf9862324f65f",
     "sourceRepo": "Indflix",
     "isDuplicate": false
   },
