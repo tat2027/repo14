@@ -2742,10 +2742,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/MoviePlusProvider/icon.png",
-    "fileHash": "sha256-1696ae02a910a92f09082fad23196790098468384bb3f39bdbb23ae39983d1a3",
+    "fileHash": "sha256-32bd76961660cbfbfe806b4ad19945ec283381c0127ed6bd0e5e236efa147704",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 87670,
+    "fileSize": 88733,
     "status": 1,
     "language": "mx",
     "authors": [
@@ -2755,7 +2755,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 5,
+    "version": 6,
     "internalName": "MoviePlusProvider",
     "description": "Movie! Plus — Spanish/Latino movies & series (TMDB metadata, Yandex.Disk sources, no login)",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MoviePlusProvider.cs3",
@@ -5323,7 +5323,7 @@
       "Xtron"
     ],
     "description": "Multi Language Movies and Series Provider",
-    "fileSize": 247571,
+    "fileSize": 247451,
     "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
     "language": "hi",
     "tvTypes": [
@@ -5332,7 +5332,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MovieBox.png",
     "apiVersion": 1,
-    "fileHash": "sha256-a4f3aa6becaa4747f9d2139564393adf25b3b9248d05625ca01b38074b282c39",
+    "fileHash": "sha256-3e54fe4dc4dcbb70a5ba9863fd07a4e4f1babaedf80ab229506fb029003d94da",
     "sourceRepo": "Xtron Repo",
     "isDuplicate": true
   },
