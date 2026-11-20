@@ -2032,14 +2032,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Ultima.cs3",
     "status": 2,
-    "version": 72,
+    "version": 73,
     "name": "Ultima",
     "internalName": "Ultima",
     "authors": [
       "RowdyRushya,Phisher98"
     ],
     "description": "The ultimate All-in-One home screen to access all of your extensions at one place (You need to select/deselect sections in Ultima's settings to load other extensions on home screen)",
-    "fileSize": 427096,
+    "fileSize": 427933,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -2047,7 +2047,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Ultima.jpg",
     "apiVersion": 1,
-    "fileHash": "sha256-6dc2ecb716913860e103493cd25bbbd17105f6367e5a118507946462e0d1b9ce",
+    "fileHash": "sha256-011c713ee48dcfe94349376ef54fdf0da7f26202b00cab4c39078134665188d9",
     "sourceRepo": "Phisher Repo",
     "isDuplicate": false
   },
@@ -5362,14 +5362,14 @@
   {
     "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MovieBox.cs3",
     "status": 1,
-    "version": 51,
+    "version": 52,
     "name": "MovieBox [Xtron Repo]",
     "internalName": "MovieBox_xtron_repo",
     "authors": [
       "Xtron"
     ],
     "description": "Multi Language Movies and Series Provider",
-    "fileSize": 245714,
+    "fileSize": 258328,
     "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
     "language": "hi",
     "tvTypes": [
@@ -5378,7 +5378,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MovieBox.png",
     "apiVersion": 1,
-    "fileHash": "sha256-174bea3a4e1e461e40317dddad8cc0a12e1112a9e27b2947b64bba75177356d7",
+    "fileHash": "sha256-9c26a7f2fc96c2f897d44b9d610add3075710bc26d4650e2fa4b133e04c83185",
     "sourceRepo": "Xtron Repo",
     "isDuplicate": true
   },
@@ -5594,7 +5594,7 @@
   {
     "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/XtronTV.cs3",
     "status": 1,
-    "version": 32,
+    "version": 33,
     "name": "XtronTV",
     "internalName": "XtronTV",
     "authors": [
@@ -5602,7 +5602,7 @@
       "parmod19"
     ],
     "description": "Ultimate hub for Indian Hindi Daily Soaps & Dramas",
-    "fileSize": 223988,
+    "fileSize": 222458,
     "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
     "language": "hi",
     "tvTypes": [
@@ -5611,7 +5611,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronTV.png",
     "apiVersion": 1,
-    "fileHash": "sha256-bc3d1ca9d58bacac464625d59d8e430199539af7f677908f8ecbded777e93efb",
+    "fileHash": "sha256-399b66d2240e41d69b4856ab2b4e89fec3a7747f6c574638299f03b15473c679",
     "sourceRepo": "Xtron Repo",
     "isDuplicate": false
   },
@@ -5683,16 +5683,16 @@
     "isDuplicate": true
   },
   {
-    "url": "https://cs.eclipsia.dpdns.org/files/d00d8b1596315ce9/Eclipsia.cs3",
+    "url": "https://cs.eclipsia.dpdns.org/files/daa24c6835722c56/Eclipsia.cs3",
     "status": 1,
-    "version": 11,
+    "version": 13,
     "name": "Eclipsia",
     "internalName": "Eclipsia",
     "authors": [
       "Eclipsia"
     ],
     "description": "Curated collection of Providers",
-    "fileSize": 1054898,
+    "fileSize": 1066723,
     "repositoryUrl": "https://gitea.com/eclipsia/cloudstream",
     "language": "en",
     "tvTypes": [
@@ -5701,12 +5701,12 @@
     ],
     "iconUrl": "https://cs3-server.orkestr.run/img/47cdacc9a3f2f869.png",
     "apiVersion": 1,
-    "fileHash": "sha256-d00d8b1596315ce9c2a11b5aadc54f75036ce83c1df13fe5b0a99aeb83425d52",
+    "fileHash": "sha256-daa24c6835722c560c941acc00d38aa66ab429c6ffce462d81265d12df0fdb03",
     "sourceRepo": "Eclipsia",
     "isDuplicate": false
   },
   {
-    "url": "https://cs.eclipsia.dpdns.org/files/bf4b74f398e3f106/EclipsiaAnime.cs3",
+    "url": "https://cs.eclipsia.dpdns.org/files/70ff4d46d9b87506/EclipsiaAnime.cs3",
     "status": 1,
     "version": 11,
     "name": "EclipsiaAnime",
@@ -5715,7 +5715,7 @@
       "Eclipsia"
     ],
     "description": "AniList & Kitsu Catalog with Anime Providers",
-    "fileSize": 996106,
+    "fileSize": 997249,
     "repositoryUrl": "https://gitea.com/eclipsia/cloudstream",
     "language": "en",
     "tvTypes": [
@@ -5725,7 +5725,7 @@
     ],
     "iconUrl": "https://cs3-server.orkestr.run/img/47cdacc9a3f2f869.png",
     "apiVersion": 1,
-    "fileHash": "sha256-bf4b74f398e3f10656f27768f3280a9c06a46b4c26bfe0446609952cc025eaf5",
+    "fileHash": "sha256-70ff4d46d9b875065bcd35b08816f38cbd87479afb55e19c5fe08961dfd4e1cc",
     "sourceRepo": "Eclipsia",
     "isDuplicate": false
   },
@@ -5800,14 +5800,14 @@
   {
     "url": "https://raw.githubusercontent.com/dipender98/Indflix/builds/IndStream.cs3",
     "status": 1,
-    "version": 108,
+    "version": 109,
     "name": "IndStream",
     "internalName": "IndStream",
     "authors": [
       "Indflix"
     ],
     "description": "Federated embed-server resolver keyed by TMDB/IMDB id. Races dozens of independent HLS/DASH servers, picks the fastest CDN per title, and exposes multi-language audio + per-quality links.",
-    "fileSize": 385222,
+    "fileSize": 392279,
     "repositoryUrl": "https://github.com/dipender98/Indflix",
     "language": "hi",
     "tvTypes": [
@@ -5817,7 +5817,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/dipender98/Indflix/main/IndStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-b94ba041273e63b6c7e0dc545a56876ae43ab92cf81d0e6aebe0fa1e16be310f",
+    "fileHash": "sha256-5b7e2fdce555c6e33090c85f6d74476deedb03ce1618818a83ddb3b7f3952e2d",
     "sourceRepo": "Indflix",
     "isDuplicate": false
   },
@@ -5843,7 +5843,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/dipender98/Indflix/main/Multimovies/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-3188375ca553b91cd281f212b898c1bf7877e1f94be6dd30f9ebe9457ba54096",
+    "fileHash": "sha256-d23975689d0df8817e1c760ff9cc4f22106085d2a861d5d994a042e9e427f7a5",
     "sourceRepo": "Indflix",
     "isDuplicate": true
   },
@@ -5866,7 +5866,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/dipender98/Indflix/main/Vegamovies/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-3da721d29474a9eebbf4911ea11125a576a33bc17940748e30f76048eace4483",
+    "fileHash": "sha256-62ef3c31e325d0d7fa8838df602c2db42df9914a238b624775582fe4fc7761d7",
     "sourceRepo": "Indflix",
     "isDuplicate": false
   },
