@@ -94,10 +94,6 @@ SOURCE_REPOSITORIES = [
     {
         "name": "Shakzz Repo",
         "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/refs/heads/builds/repo.json"
-    },
-    {
-        "name": "Faisal0786",
-        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/main/repo.json"
     }
 ]
 
