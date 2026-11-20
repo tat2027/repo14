@@ -4,6 +4,6 @@
   "manifestVersion": 1,
   "iconUrl": "https://raw.githubusercontent.com/LagradOst/CloudStream-3/master/app/src/main/res/drawable/ic_launcher.png",
   "pluginLists": [
-    "https://tat2027.github.io/repo14/plugins.json"
+    "https://raw.githubusercontent.com/tat2027/repo14/refs/heads/main/plugins.json"
   ]
 }
