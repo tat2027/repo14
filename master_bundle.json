@@ -298,7 +298,7 @@
       "Phisher98"
     ],
     "description": "Includes AnimeDekho,OnePace(DUB,SUB) and HindiSubAnime",
-    "fileSize": 197124,
+    "fileSize": 198663,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -308,7 +308,7 @@
     ],
     "iconUrl": "https://animedekho.tv/wp-content/uploads/2026/10/AnimeDekho-Logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-7929d406c9c8d371de4c2fa1336cc2c94cc2a067930d44616389366c7232f514",
+    "fileHash": "sha256-17ba2f342bffa425e4e3eef0521bebefafeab3b4a31b06b3931a9ddce72fd868",
     "sourceRepo": "Phisher Repo",
     "isDuplicate": false
   },
@@ -322,7 +322,7 @@
       "Phisher98"
     ],
     "description": "Anime in Multi Lang",
-    "fileSize": 127465,
+    "fileSize": 128880,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -332,7 +332,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=animedubhindi.cc&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-4e5ee4ed7f8a75a24ea5510eee3c450dff282794718347303560cde29e4a47a0",
+    "fileHash": "sha256-635d6fadf62dd051b2be234796686c6e304aabcabdcc85b56f6e0da8d2d57bd8",
     "sourceRepo": "Phisher Repo",
     "isDuplicate": false
   },
@@ -793,7 +793,7 @@
       "Phisher98"
     ],
     "description": "Watch Movies & TvSeries (Multi-Lang)",
-    "fileSize": 145540,
+    "fileSize": 147181,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -802,7 +802,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/dudefilms.png",
     "apiVersion": 1,
-    "fileHash": "sha256-505fabde6bae17c8f8c2f7766d26dc3317b79bee84c872695da07054adab8143",
+    "fileHash": "sha256-5046f24c942785b4275d9d746ef0f3c324dab52bdffa1ba151fff63024cf323d",
     "sourceRepo": "Phisher Repo",
     "isDuplicate": false
   },
@@ -1307,7 +1307,7 @@
       "Phisher98"
     ],
     "description": "Watch short vertical dramas & reels from multiple Indian short platforms",
-    "fileSize": 107365,
+    "fileSize": 108880,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -1316,7 +1316,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/MicroTV.png",
     "apiVersion": 1,
-    "fileHash": "sha256-b99e9452e1b82c6d157edefbc61bd1d33702a49f092f9bcb4cff8fc072e3be7a",
+    "fileHash": "sha256-609dff58c45c6af9335407c9cd8be70d89b8703c27b8c4381b00edff061f0ba1",
     "sourceRepo": "Phisher Repo",
     "isDuplicate": false
   },
@@ -1353,7 +1353,7 @@
       "Phisher98"
     ],
     "description": "Watch Movies & TV Series from MovieNestBD",
-    "fileSize": 191846,
+    "fileSize": 192201,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "bn",
     "tvTypes": [
@@ -1363,7 +1363,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=movienestbd.best&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-1e03883a4bafb6852b3094e5ad7c985d76819146847b5b637d4d643849bd290e",
+    "fileHash": "sha256-b5d8d3344f2d968a05d794b7061e09c0f538f3aad9fbaa4387bc4f3c15b545d5",
     "sourceRepo": "Phisher Repo",
     "isDuplicate": false
   },
@@ -1377,7 +1377,7 @@
       "Phisher98"
     ],
     "description": "Movies4u",
-    "fileSize": 163713,
+    "fileSize": 164894,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -1386,7 +1386,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/movies4u.png",
     "apiVersion": 1,
-    "fileHash": "sha256-dc5c1f4dbce02f11a0a0990e5054a5e8c1d7bafacddb85174d2cd6ad6fcae281",
+    "fileHash": "sha256-dd87dd6ad23144022d1ff5183cf3bf18fb38cf26c726a104cb781a3595960ff4",
     "sourceRepo": "Phisher Repo",
     "isDuplicate": false
   },
@@ -1400,7 +1400,7 @@
       "Phisher98"
     ],
     "description": "Indian Multi-language HD Provider",
-    "fileSize": 184840,
+    "fileSize": 185596,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -1410,7 +1410,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/MultiMoviesProvider/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-a4043ae3190515615ffc46502ddcb7ef228c50270f18a057ecc40ea87c955434",
+    "fileHash": "sha256-2f90eb45aebbc7f0edcbdc53c6f60916e9883f5274d7a41cd8edec5856b23c1b",
     "sourceRepo": "Phisher Repo",
     "isDuplicate": false
   },
@@ -1741,7 +1741,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 715,
+    "version": 716,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -1749,7 +1749,7 @@
       "Hexated"
     ],
     "description": "#1 best extension based on MultiAPI",
-    "fileSize": 2236985,
+    "fileSize": 2249753,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -1762,7 +1762,7 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-94d7ec68ed45cf3527fb71d92460047cd3d1d5de8c92aa912122f7ed1117e332",
+    "fileHash": "sha256-ac61b539dba8a52f2fc663d91e0af41e5a25b018d03cfed754ecaeb7ad9a729e",
     "sourceRepo": "Phisher Repo",
     "isDuplicate": false
   },
@@ -1983,14 +1983,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/TorraStream.cs3",
     "status": 1,
-    "version": 99,
+    "version": 100,
     "name": "TorraStream",
     "internalName": "TorraStream",
     "authors": [
       "Phisher98"
     ],
     "description": "#1 Best Extension – MultiAPI-Based with 4K Torrent Support (Debian) Use Extension Settings",
-    "fileSize": 335051,
+    "fileSize": 335071,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -2002,7 +2002,7 @@
     ],
     "iconUrl": "https://torrentio.strem.fun/images/logo_v1.png",
     "apiVersion": 1,
-    "fileHash": "sha256-94c1dd5b259411bcb9f0d46ae8e6039137599bbb7eb0126d995476c01b5a6f33",
+    "fileHash": "sha256-dc438cd3c63e3e4aac5bc7da0a3aaacfac839ea58e5f889efd38406c8420df2a",
     "sourceRepo": "Phisher Repo",
     "isDuplicate": false
   },
@@ -5407,14 +5407,14 @@
   {
     "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MovieBox.cs3",
     "status": 1,
-    "version": 59,
+    "version": 60,
     "name": "MovieBox [Xtron Repo]",
     "internalName": "MovieBox_xtron_repo",
     "authors": [
       "Xtron"
     ],
     "description": "Multi Language Movies and Series Provider",
-    "fileSize": 292902,
+    "fileSize": 299533,
     "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
     "language": "hi",
     "tvTypes": [
@@ -5423,7 +5423,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MovieBox.png",
     "apiVersion": 1,
-    "fileHash": "sha256-5960e64f818d439a065b7cbad65f1c4ceea6d0b333fea64e9172b10b358430d4",
+    "fileHash": "sha256-294c56ed3381b6807de58ce83a99a9eb37efe8772e18be8dd0bc8fb140190f41",
     "sourceRepo": "Xtron Repo",
     "isDuplicate": true
   },
@@ -5727,16 +5727,16 @@
     "isDuplicate": true
   },
   {
-    "url": "https://cs.eclipsia.dpdns.org/files/0be3c8e602b6ca71/Eclipsia.cs3",
+    "url": "https://cs.eclipsia.dpdns.org/files/091b124bcc63dcff/Eclipsia.cs3",
     "status": 1,
-    "version": 15,
+    "version": 16,
     "name": "Eclipsia",
     "internalName": "Eclipsia",
     "authors": [
       "Eclipsia"
     ],
     "description": "Curated collection of Providers",
-    "fileSize": 1073167,
+    "fileSize": 1077434,
     "repositoryUrl": "https://gitea.com/eclipsia/cloudstream",
     "language": "en",
     "tvTypes": [
@@ -5745,21 +5745,21 @@
     ],
     "iconUrl": "https://cs3-server.orkestr.run/img/47cdacc9a3f2f869.png",
     "apiVersion": 1,
-    "fileHash": "sha256-0be3c8e602b6ca71ca0133b7114f21330e99169c3aedcd63cf207a174a67069e",
+    "fileHash": "sha256-091b124bcc63dcff50c6e0f2b3b6fd921a545aa2cab88594b1fc39b390969cd8",
     "sourceRepo": "Eclipsia",
     "isDuplicate": false
   },
   {
-    "url": "https://cs.eclipsia.dpdns.org/files/70ff4d46d9b87506/EclipsiaAnime.cs3",
+    "url": "https://cs.eclipsia.dpdns.org/files/c48fec895ce7053c/EclipsiaAnime.cs3",
     "status": 1,
-    "version": 11,
+    "version": 12,
     "name": "EclipsiaAnime",
     "internalName": "EclipsiaAnime",
     "authors": [
       "Eclipsia"
     ],
     "description": "AniList & Kitsu Catalog with Anime Providers",
-    "fileSize": 997249,
+    "fileSize": 997254,
     "repositoryUrl": "https://gitea.com/eclipsia/cloudstream",
     "language": "en",
     "tvTypes": [
@@ -5769,7 +5769,7 @@
     ],
     "iconUrl": "https://cs3-server.orkestr.run/img/47cdacc9a3f2f869.png",
     "apiVersion": 1,
-    "fileHash": "sha256-70ff4d46d9b875065bcd35b08816f38cbd87479afb55e19c5fe08961dfd4e1cc",
+    "fileHash": "sha256-c48fec895ce7053c9167c9e703bf19d20cd2e56592f34c15409f8b7dcdebe087",
     "sourceRepo": "Eclipsia",
     "isDuplicate": false
   },
@@ -5844,14 +5844,14 @@
   {
     "url": "https://raw.githubusercontent.com/dipender98/Indflix/builds/IndStream.cs3",
     "status": 1,
-    "version": 126,
+    "version": 127,
     "name": "IndStream",
     "internalName": "IndStream",
     "authors": [
       "Indflix"
     ],
     "description": "Federated embed-server resolver keyed by TMDB/IMDB id. Races dozens of independent HLS/DASH servers, picks the fastest CDN per title, and exposes multi-language audio + per-quality links.",
-    "fileSize": 408256,
+    "fileSize": 408215,
     "repositoryUrl": "https://github.com/dipender98/Indflix",
     "language": "hi",
     "tvTypes": [
@@ -5861,7 +5861,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/dipender98/Indflix/main/IndStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-0fb45675230e68ce217ace93178485ed099a8e5e192e3bf72593b869ff7ebfee",
+    "fileHash": "sha256-ea3742e4e3e8302cace3b7d88b136c4258ebbcf4f9cf97ec953ed2ad1bc8e1ca",
     "sourceRepo": "Indflix",
     "isDuplicate": false
   },
@@ -5887,7 +5887,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/dipender98/Indflix/main/Multimovies/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-aed489dff7632fcd12f76c84805611e0e80a1ce1ab52df88e41316835506f7ff",
+    "fileHash": "sha256-5edf919d0624d57621dd890e9e7ca04c51e60f2a2eacfba01170aba852bc3182",
     "sourceRepo": "Indflix",
     "isDuplicate": true
   },
@@ -5910,7 +5910,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/dipender98/Indflix/main/Vegamovies/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-340e993ac7ea039cd64e1b016e7529227d995c490ef5016948b29e1d4b4ab096",
+    "fileHash": "sha256-2afbde8ca55b80eabaae6ab57548166cde577669f20ab15646b301ce6c5dd94f",
     "sourceRepo": "Indflix",
     "isDuplicate": false
   },
